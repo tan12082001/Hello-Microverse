@@ -140,3 +140,13 @@ If you like this project follow my github page.
 I would like to thank microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is MIT licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
