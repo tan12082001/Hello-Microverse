@@ -26,42 +26,25 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Hello Microverse is a simple project to help understand the process of creating a new repository and creating fefature branches and creating pull requests.
 
-**Hello Microverse** is a...
+**Hello Microverse** is a is a simple project to help understand the process of creating a new repository and creating fefature branches and creating pull requests.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML and CSS
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **html page with h1 heading**
 - **css styles**
@@ -72,9 +55,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +64,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> sample for understanding the Github Workflow
+sample for understanding the Github Workflow
 
 To get a local copy up and running, follow these steps.
 
@@ -107,49 +89,12 @@ Clone this repository to your desired folder:
 or you can clone it through Github desktop.
 
 
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> @tan12082001
 
 👤 **Tanmayi Manku**
 
@@ -163,7 +108,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> 1 - 3 features i will add to the project.
 
 - [ ] **Updating the css style for the page**
 
@@ -183,9 +127,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project follow my github page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,19 +136,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+I would like to thank microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
