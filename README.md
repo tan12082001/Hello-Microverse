@@ -1,86 +1,152 @@
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
-📖 Hello Microverse
-Creating a repo and adding the html and css files of the project to new branch where, index.html file consits of heading "Hello Microverse!" with its css styling in styles.css file
+<!-- TABLE OF CONTENTS -->
 
-Hello Microverse is a...
+# 📗 Table of Contents
 
-🛠 Built With
-Tech Stack
-HTML & CSS
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-Client
-Server
-Database
-Key Features
-Describe between 1-3 key features of the application.
+<!-- PROJECT DESCRIPTION -->
 
-Html page with h1 tag
-css styles
-(back to top)
-
-🚀 Live Demo
-Add a link to your deployed project.
-
-Live Demo Link
-(back to top)
-
-💻 Getting Started
-sample for creating a new repo with feature branch
+# 📖 Hello Microverse <a name="about-project"></a>
 
 
+**Hello Microverse** is a is a simple project to help understand the process of creating a new repository and creating fefature branches and creating pull requests.
 
-👥 Author
+## 🛠 Built With <a name="built-with"></a>
 
-GitHub: @tan12082001
-Twitter: @TanmayiManku
-LinkedIn:https://www.linkedin.com/in/tanmayi-manku-99195720a![image](https://github.com/tan12082001/Hello-Microverse/assets/81354942/c82eee16-f5ab-4b62-94b9-91e1045e5d16)
+### Tech Stack <a name="tech-stack"></a>
 
 
-(back to top)
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+  </ul>
+</details>
 
-🔭 Future Features
+<!-- Features -->
 
- 
-(back to top)
+### Key Features <a name="key-features"></a>
 
-🤝 Contributing
+- **html page with h1 heading**
+- **css styles**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- N/A
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+sample for understanding the Github Workflow
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+  git clone git@github.com:myaccount/my-project.git
+
+or you can clone it through Github desktop.
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Tanmayi Manku**
+
+- GitHub: @tan12082001
+- Twitter: @TanmayiManku 
+- LinkedIn: https://www.linkedin.com/in/tanmayi-manku-99195720a
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **Updating the css style for the page**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+<!-- SUPPORT -->
 
-If you like this project...
+## ⭐️ Show your support <a name="support"></a>
 
-(back to top)
 
-🙏 Acknowledgments
+If you like this project follow my github page.
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-📝 License
-This project is MIT licensed.
+<!-- ACKNOWLEDGEMENTS -->
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/tan12082001/Hello-Microverse/blob/my-first-pull-request/LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
