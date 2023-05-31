@@ -1,60 +1,211 @@
-📗 Table of Contents 
-📖 About the Project 
-🛠 Built With Tech Stack Key Features 
-🚀 Live Demo
- 💻 Getting Started Setup Prerequisites Install Usage Run tests Deployment 
- 👥 Authors 
- 🔭 Future Features 
- 🤝 Contributing 
- ⭐️ Show your support 
- 🙏 Acknowledgements
-  📝 License 
-  
-  📖 Hello Microverse 
-  Creating a repo and adding the html and css files of the project to new branch where, index.html file consits of heading "Hello Microverse!" with its css styling in styles.css file
+<!-- TABLE OF CONTENTS -->
 
-Hello Microverse is a...
+# 📗 Table of Contents
 
-🛠 Built With Tech Stack HTML & CSS
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-Client Server Database Key Features Describe between 1-3 key features of the application.
+<!-- PROJECT DESCRIPTION -->
 
-Html page with h1 tag css styles (back to top)
+# 📖 Hello Microverse <a name="about-project"></a>
 
-🚀 Live Demo Add a link to your deployed project.
+> Hello Microverse is a simple project to help understand the process of creating a new repository and creating fefature branches and creating pull requests.
 
-Live Demo Link (back to top)
+**Hello Microverse** is a...
 
-💻 Getting Started sample for creating a new repo with feature branch
+## 🛠 Built With <a name="built-with"></a>
 
-👥 Author
+### Tech Stack <a name="tech-stack"></a>
 
-GitHub: @tan12082001 
-Twitter: @TanmayiManku 
-LinkedIn:https://www.linkedin.com/in/tanmayi-manku-99195720a![image](https://github.com/tan12082001/Hello-Microverse/assets/81354942/c82eee16-f5ab-4b62-94b9-91e1045e5d16)
+> HTML and CSS
 
-(back to top)
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-🔭 Future Features
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
 
-(back to top)
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-🤝 Contributing Contributions, issues, and feature requests are welcome!
+<!-- Features -->
 
-Feel free to check the issues page.
+### Key Features <a name="key-features"></a>
 
-(back to top)
+> Describe between 1-3 key features of the application.
 
-⭐️ Show your support Write a message to encourage readers to support your project
+- **html page with h1 heading**
+- **css styles**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://google.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> sample for understanding the Github Workflow
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+  git clone git@github.com:myaccount/my-project.git
+
+or you can clone it through Github desktop.
+
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> @tan12082001
+
+👤 **Tanmayi Manku**
+
+- GitHub: @tan12082001
+- Twitter: @TanmayiManku 
+- LinkedIn: https://www.linkedin.com/in/tanmayi-manku-99195720a
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> 1 - 3 features i will add to the project.
+
+- [ ] **Updating the css style for the page**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
 
 If you like this project...
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🙏 Acknowledgments
+<!-- ACKNOWLEDGEMENTS -->
 
-(back to top)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-📝 License This project is MIT licensed.
+> Give credit to everyone who inspired your codebase.
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
